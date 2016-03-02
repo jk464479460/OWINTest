@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OWINTest", "OWINTest\OWINTest.csproj", "{9A30D508-CAE0-45B9-B443-85F5E9BEB4B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async-sync", "Async-sync\Async-sync.csproj", "{3764F441-2FD8-43B5-8B07-315A297EB7A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A30D508-CAE0-45B9-B443-85F5E9BEB4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A30D508-CAE0-45B9-B443-85F5E9BEB4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A30D508-CAE0-45B9-B443-85F5E9BEB4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A30D508-CAE0-45B9-B443-85F5E9BEB4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3764F441-2FD8-43B5-8B07-315A297EB7A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3764F441-2FD8-43B5-8B07-315A297EB7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3764F441-2FD8-43B5-8B07-315A297EB7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3764F441-2FD8-43B5-8B07-315A297EB7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
